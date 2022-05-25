@@ -11,7 +11,7 @@ Programme BASH et SQL pour gérer le farming de BAIES sur PokéMMO
 
 Une fois votre client SMTP et votre SGBD installés et configurés, créer une base de données sur MySQL/MariaDB nommée POKEMMO_BAIES par exemple (si un autre nom est choisi, la modification doit être également faite sur les scripts), puis injecter les tables, colonnes et lignes à partir du dump fourni, puis attribuez les droits adéquats à un autre utilisateur de la SGBD qui représentera votre utilisateur courant.
 
-En tant que root, ou tout autre utilisateur ayant autorité TOTALE sur la SGBD
+En tant que root, ou tout autre utilisateur ayant autorité de CRÉATION ET DES GESTION DE DROITS sur la SGBD
 
 ```
 root# mysql
